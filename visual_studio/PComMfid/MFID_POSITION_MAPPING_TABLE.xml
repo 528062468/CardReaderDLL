@@ -1,0 +1,7 @@
+<Mfid COM="100" encoding="utf-8">
+	<Map PositonId="11-1" CardReaderId="01"/>
+	<Map PositonId="1-1" CardReaderId="02"/>
+	<Map PositonId="1-2" CardReaderId="03"/>
+	<Map PositonId="2-1" CardReaderId="04"/>
+	<Map PositonId="2-2" CardReaderId="05"/>
+</Mfid>
