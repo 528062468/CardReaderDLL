@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PComMfid", "PComMfid\PComMfid.vcxproj", "{C83A8E18-A921-49F7-907B-FD5C6AB8EB7F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CardReaderMain", "CardReaderMain\CardReaderMain.vcxproj", "{93D55852-B63F-4DD4-9E85-0F640B3C7CA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C83A8E18-A921-49F7-907B-FD5C6AB8EB7F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C83A8E18-A921-49F7-907B-FD5C6AB8EB7F}.Debug|Win32.Build.0 = Debug|Win32
+		{C83A8E18-A921-49F7-907B-FD5C6AB8EB7F}.Debug|x64.ActiveCfg = Debug|x64
+		{C83A8E18-A921-49F7-907B-FD5C6AB8EB7F}.Debug|x64.Build.0 = Debug|x64
+		{C83A8E18-A921-49F7-907B-FD5C6AB8EB7F}.Debug|x86.ActiveCfg = Debug|Win32
+		{C83A8E18-A921-49F7-907B-FD5C6AB8EB7F}.Debug|x86.Build.0 = Debug|Win32
+		{C83A8E18-A921-49F7-907B-FD5C6AB8EB7F}.Release|Win32.ActiveCfg = Release|Win32
+		{C83A8E18-A921-49F7-907B-FD5C6AB8EB7F}.Release|Win32.Build.0 = Release|Win32
+		{C83A8E18-A921-49F7-907B-FD5C6AB8EB7F}.Release|x64.ActiveCfg = Release|x64
+		{C83A8E18-A921-49F7-907B-FD5C6AB8EB7F}.Release|x64.Build.0 = Release|x64
+		{C83A8E18-A921-49F7-907B-FD5C6AB8EB7F}.Release|x86.ActiveCfg = Release|Win32
+		{C83A8E18-A921-49F7-907B-FD5C6AB8EB7F}.Release|x86.Build.0 = Release|Win32
+		{93D55852-B63F-4DD4-9E85-0F640B3C7CA7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93D55852-B63F-4DD4-9E85-0F640B3C7CA7}.Debug|Win32.Build.0 = Debug|Win32
+		{93D55852-B63F-4DD4-9E85-0F640B3C7CA7}.Debug|x64.ActiveCfg = Debug|Win32
+		{93D55852-B63F-4DD4-9E85-0F640B3C7CA7}.Debug|x86.ActiveCfg = Debug|Win32
+		{93D55852-B63F-4DD4-9E85-0F640B3C7CA7}.Release|Win32.ActiveCfg = Release|Win32
+		{93D55852-B63F-4DD4-9E85-0F640B3C7CA7}.Release|Win32.Build.0 = Release|Win32
+		{93D55852-B63F-4DD4-9E85-0F640B3C7CA7}.Release|x64.ActiveCfg = Release|Win32
+		{93D55852-B63F-4DD4-9E85-0F640B3C7CA7}.Release|x86.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFE83F65-F1BA-4F6D-A341-642266E3F10E}
+	EndGlobalSection
+EndGlobal
